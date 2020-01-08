@@ -1,0 +1,51 @@
+{
+	"fileheader.customMade": {
+		"Description": "",
+		"Date": "Do not edit", // 文件创建时间(不变)
+		"LastEditors": "关耳听风", // 文件最后编辑者
+		"LastEditTime": "Do not edit" // 文件最后编辑时间
+	}, // 头部注释
+	"cSpell.words": [
+		"emojipedia",
+		"freemarker",
+		"keyframes"
+	],
+	"cSpell.ignoreWords": [
+		"arachni",
+		"crossaxis",
+		"dont",
+		"ehcache",
+		"expireat",
+		"flexbox",
+		"getset",
+		"hackmeplz",
+		"hmacsha",
+		"iphone",
+		"keyframes",
+		"knight",
+		"krypto",
+		"moz",
+		"mystar",
+		"noupdate",
+		"nums",
+		"onbeforeunload",
+		"onpopstate",
+		"onupgradeneeded",
+		"onupgradeneededd",
+		"pgtiou",
+		"pgturl",
+		"popstate",
+		"processdata",
+		"vant",
+		"vnode",
+		"webkit",
+		"zalgo",
+		"zendesk"
+	],
+	/** Easy Sass 插件 **/
+	"easysass.formats": [{
+		"format": "compressed", // 压缩
+		"extension": ".css"
+	}],
+	"easysass.targetDir": "./" // 自定义css输出文件路径
+}
