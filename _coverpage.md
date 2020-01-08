@@ -7,7 +7,7 @@
 
 > 世间最珍贵的是正拥有，最快乐的是活在当下
 
-[GitHub](https://github.com/BrucePhoebus/developer-note) [开始阅读](/README.md)
+[GitHub](https://github.com/BrucePhoebus/read-notes) [开始阅读](/README.md)
 
 <!-- 背景图片 -->
 
